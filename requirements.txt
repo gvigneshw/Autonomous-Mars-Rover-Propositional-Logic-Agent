@@ -1,0 +1,6 @@
+# Only game.py needs this — logic.py/inference.py/knowledge_base.py/agent.py/
+# environment.py/main.py/gui.py are pure Python 3 standard library.
+pygame>=2.5
+
+# Only needed to regenerate SUMMARY.pdf via generate_pdf.py.
+fpdf2>=2.7
